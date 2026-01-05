@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Thunder Bolt",
+    "form": 78,
+    "speed": 92,
+    "winRate": 0.32,
+    "jockeyWinRate": 0.21,
+    "trainerWinRate": 0.18,
+    "weight": 58,
+    "odds": 4.5
+  },
+  {
+    "name": "Midnight Star",
+    "form": 65,
+    "speed": 85,
+    "winRate": 0.28,
+    "jockeyWinRate": 0.25,
+    "trainerWinRate": 0.22,
+    "weight": 55,
+    "odds": 6.0
+  }
+]
